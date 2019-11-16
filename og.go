@@ -5,14 +5,11 @@ import (
 	"bytes"
 	"errors"
 	"fmt"
+	"io/ioutil"
 	"net/http"
 	"reflect"
-
-	"strings"
-
 	"strconv"
-
-	"io/ioutil"
+	"strings"
 
 	"github.com/PuerkitoBio/goquery"
 	readability "github.com/julianshen/go-readability"
