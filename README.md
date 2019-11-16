@@ -1,6 +1,8 @@
 og - An open graph parser for Golang
 ========
-
+fork of https://github.com/julianshen/og
+- added go modules
+---
 This is for parsing open graph (and Twitter card) meta tags in a html page
 
 ## Data structures
